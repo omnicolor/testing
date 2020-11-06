@@ -1,2 +1,2 @@
 # testing
-Test repository
+Test repository for testing a Slack command.
